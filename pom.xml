@@ -90,7 +90,7 @@
 	<repository>
     	<id>nexus3</id>
     	<url>http://35.223.43.240:8083/repository/maven-releases</url>
-  	</repository>
+  	</reposito \ry>
 		
 	</distributionManagement>
 	
@@ -121,11 +121,7 @@
 					</execution>
 				</executions>
 			</plugin>
-			<plugin>
-			    <groupId>org.codehaus.mojo</groupId>
-			    <artifactId>sonar-maven-plugin</artifactId>
-			    <version>3.7.0</version>
-			</plugin>
+			
 		</plugins>
 	</build>
 </project>
