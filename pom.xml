@@ -90,7 +90,7 @@
 	<repository>
     	<id>nexus3</id>
     	<url>http://35.223.43.240:8083/repository/maven-releases</url>
-  	</reposito \ry>
+  	</repository>
 		
 	</distributionManagement>
 	
